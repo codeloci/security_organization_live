@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e372eb23.css",
-    "main.js": "/static/js/main.110aa357.js",
+    "main.css": "/static/css/main.fec85f47.css",
+    "main.js": "/static/js/main.9784a07f.js",
     "static/media/example_movie.mp4": "/static/media/example_movie.3b89bb898dd9d9de98e0.mp4",
     "static/media/about_bg.jpeg": "/static/media/about_bg.060ea23c038c9296e626.jpeg",
     "static/media/testimonial_bg.jpeg": "/static/media/testimonial_bg.a324f0d8eaebf229b79b.jpeg",
@@ -9,12 +9,21 @@
     "static/media/mission_bg.jpeg": "/static/media/mission_bg.81aa7b6fec629d76ed0d.jpeg",
     "static/media/team_bg.jpeg": "/static/media/team_bg.2066dbd7ba487f95fb83.jpeg",
     "static/media/header_bg.jpeg": "/static/media/header_bg.6403040babe14c9c92fa.jpeg",
+    "static/media/so_logo.jpeg": "/static/media/so_logo.b81826215e8dd555a431.jpeg",
+    "static/media/s5.svg": "/static/media/s5.df60a9a755231fa0184b7000643af948.svg",
+    "static/media/s1.svg": "/static/media/s1.818e248d17cccb600e2b8678fcf20403.svg",
+    "static/media/s4.svg": "/static/media/s4.6f8e426501ca5dbb5cbb400fbe9e39c7.svg",
+    "static/media/s3.svg": "/static/media/s3.04ec1694387f87edeaf4c0b3b1c3453e.svg",
+    "static/media/s2.svg": "/static/media/s2.55a61caba53fd7821b76d727767606e5.svg",
+    "static/media/sl2.svg": "/static/media/sl2.4d170fe816686a0d8a094e803d817952.svg",
+    "static/media/sl1.svg": "/static/media/sl1.2731f72ba5a8590ce852633bdabed933.svg",
+    "static/media/sl3.svg": "/static/media/sl3.68d58148166ddd096d56cce13674d256.svg",
     "index.html": "/index.html",
-    "main.e372eb23.css.map": "/static/css/main.e372eb23.css.map",
-    "main.110aa357.js.map": "/static/js/main.110aa357.js.map"
+    "main.fec85f47.css.map": "/static/css/main.fec85f47.css.map",
+    "main.9784a07f.js.map": "/static/js/main.9784a07f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e372eb23.css",
-    "static/js/main.110aa357.js"
+    "static/css/main.fec85f47.css",
+    "static/js/main.9784a07f.js"
   ]
 }
